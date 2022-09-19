@@ -1,0 +1,5 @@
+1. Take 2 numbers from user and check which one is greater
+2.
+3.
+4.
+5.
