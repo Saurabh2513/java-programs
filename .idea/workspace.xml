@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="- program 1 added">
+      <change afterPath="$PROJECT_DIR$/src/functions/programs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/programs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/programs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/programs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/if_else/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/programs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/java-programs/java-programsd/src/functions"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663597380294</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="- program 1 added">
+      <created>1663597886581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663597886581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
