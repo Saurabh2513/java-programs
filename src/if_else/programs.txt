@@ -19,20 +19,23 @@
     1
     (10 + 20) = 10
 */
-8. Print days of weeak (use if-else or switch)
+
+
+8. Print days of week (use if-else or switch)
 /*
-1
-Sunday
--------------------
-6
-Friday
+    1
+    Sunday
+    -------------------
+    6
+    Friday
 */
+
 9. Print month of year (use if-else or switch)
 
 /*
-1
-January
--------------------
-6
-June
+    1
+    January
+    -------------------
+    6
+    June
 */
