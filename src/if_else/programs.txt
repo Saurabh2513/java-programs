@@ -39,3 +39,32 @@
     6
     June
 */
+
+10. Create program to determine Student is Pass or Fail.
+ Take marks of 5 suubjects.
+ English, Marathi, Hindi, Maths, Geo.
+ Check if Student has failed in any subject. if student is failed in any suject then show the subject name and marks.
+ If student is pass then show the percentage.
+
+ /*
+    Please Enter marks in below subjects:
+    English : 40
+    Marathi : 30
+    Hindi : 56
+    Maths : 88
+    Geo : 85
+
+    Student is fail in Marathi he has 30 marks.
+
+    --------------------------------------------
+
+    Please Enter marks in below subjects:
+        English : 50
+        Marathi : 65
+        Hindi : 56
+        Maths : 88
+        Geo : 96
+
+        Student is pass he has 71%.
+
+ */
