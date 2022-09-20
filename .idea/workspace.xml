@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="new added program">
-      <change afterPath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="Days of week program">
+      <change afterPath="$PROJECT_DIR$/src/if_else/MonthOfYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaysOfWeek">
+  <component name="RunManager" selected="Application.MonthOfYear">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if_else.Calculator" />
       <module name="java-programsd" />
@@ -62,19 +62,6 @@
     </configuration>
     <configuration name="DaysOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if_else.DaysOfWeek" />
-      <module name="java-programsd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="if_else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Divisible5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else.Divisible5" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MonthOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="if_else.MonthOfYear" />
+      <module name="java-programsd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MonthOfYear" />
         <item itemvalue="Application.DaysOfWeek" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.DivisibleBy5_7OrBoth" />
         <item itemvalue="Application.DivisibleBy5_7" />
-        <item itemvalue="Application.Divisible5" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663645997598</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Days of week program">
+      <created>1663647756460</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663647756460</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +229,7 @@
     <MESSAGE value="- program 2,3,4added" />
     <MESSAGE value="- added program" />
     <MESSAGE value="new added program" />
-    <option name="LAST_COMMIT_MESSAGE" value="new added program" />
+    <MESSAGE value="Days of week program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Days of week program" />
   </component>
 </project>
