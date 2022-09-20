@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="- added program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/programs.txt" afterDir="false" />
-    </list>
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="new added program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663602472431</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new added program">
+      <created>1663608026718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663608026718</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +211,7 @@
     <MESSAGE value="- program 2,3 added" />
     <MESSAGE value="- program 2,3,4added" />
     <MESSAGE value="- added program" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added program" />
+    <MESSAGE value="new added program" />
+    <option name="LAST_COMMIT_MESSAGE" value="new added program" />
   </component>
 </project>
