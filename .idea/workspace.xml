@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="month of year program">
-      <change afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="Student Marks program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/programs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,9 +117,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.StudentMarks" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.MonthOfYear" />
         <item itemvalue="Application.DaysOfWeek" />
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.DivisibleBy5_7OrBoth" />
       </list>
     </recent_temporary>
@@ -216,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663649620170</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Student Marks program">
+      <created>1663670724088</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663670724088</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +247,7 @@
     <MESSAGE value="new added program" />
     <MESSAGE value="Days of week program" />
     <MESSAGE value="month of year program" />
-    <option name="LAST_COMMIT_MESSAGE" value="month of year program" />
+    <MESSAGE value="Student Marks program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student Marks program" />
   </component>
 </project>
