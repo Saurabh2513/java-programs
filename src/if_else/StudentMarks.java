@@ -8,8 +8,9 @@ import java.util.Scanner;
  */
 public class StudentMarks {
   public static void main(String[] args) {
-    int count = 0,total=0;
-    char operator = 0,percentage=0;
+    int count = 0;
+    char operator = 0;
+    double total=0, average, percentage;
     Scanner scanner = new Scanner(System.in);
     System.out.println("enter student name:");
     String name = scanner.next();
@@ -29,20 +30,23 @@ public class StudentMarks {
     System.out.println("Geo: ");
     int geo = scanner.nextInt();
 
-    if(100>=30){
+    if(100 == 30){
       System.out.println("Student is fail in English he has 30 marks.");
     }
-    else if(100>=30){
+    else if(100==30){
       System.out.println("Student is fail in Marathi he has 30 marks.");
     }
-    else if(100>=30){
+    else if(100==30){
       System.out.println("Student is fail in Hindi he has 30 marks.");
     }
-    else if(100>=30){
+    else if(100==30){
       System.out.println("Student is fail in Maths he has 30 marks.");
     }
-    else if(100>=30){
+    else if(100==30){
       System.out.println("Student is fail in Geo he has 30 marks.");
+    }
+    else if(30>30){
+      System.out.println("student fail in all subject ");
     }
     else{
       System.out.println("student has all subject clear");
@@ -56,11 +60,12 @@ public class StudentMarks {
         total = english + marathi + hindi + maths + geo;
         System.out.println("Total is: " + total);
 
+
         System.out.println("percentage of all marks please enter '%'");
         operator = scanner.next().charAt(0);
 
       case '%':
-        percentage = (char) ((total / 500)*100);
+        percentage = (total/500.0)*100;
         System.out.println("Total Percentage : " + percentage + "%");
 
         }

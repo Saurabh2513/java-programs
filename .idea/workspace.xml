@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="Student Marks program">
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" Marks program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/if_else/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/if_else/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663670724088</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=" Marks program">
+      <created>1663692488377</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663692488377</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +254,7 @@
     <MESSAGE value="Days of week program" />
     <MESSAGE value="month of year program" />
     <MESSAGE value="Student Marks program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student Marks program" />
+    <MESSAGE value=" Marks program" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Marks program" />
   </component>
 </project>
