@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" Marks program">
-      <change afterPath="$PROJECT_DIR$/src/loop/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/PrintNumber.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2 program">
+      <change afterPath="$PROJECT_DIR$/src/loop/OddNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/EvenNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenNumber">
+  <component name="RunManager" selected="Application.OddNumber">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if_else.Calculator" />
       <module name="java-programsd" />
@@ -75,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else.MonthOfYear" />
+    <configuration name="OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.OddNumber" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="if_else.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddNumber" />
         <item itemvalue="Application.EvenNumber" />
         <item itemvalue="Application.PrintNumber" />
         <item itemvalue="Application.StudentMarks" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.MonthOfYear" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663694439344</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=" loop 1,2 program">
+      <created>1663695555868</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663695555868</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +269,7 @@
     <MESSAGE value="month of year program" />
     <MESSAGE value="Student Marks program" />
     <MESSAGE value=" Marks program" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Marks program" />
+    <MESSAGE value=" loop 1,2 program" />
+    <option name="LAST_COMMIT_MESSAGE" value=" loop 1,2 program" />
   </component>
 </project>
