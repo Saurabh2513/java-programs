@@ -1,76 +1,50 @@
 package if_else;
+
 import java.util.Scanner;
+
 /*10. Create program to determine Student is Pass or Fail.
         Take marks of 5 subjects.
         English, Marathi, Hindi, Maths, Geo.
         Check if Student has failed in any subject. if student is failed in any subject then show the subject name and marks.
         If student is pass then show the percentage.
- */
+*/
 public class StudentMarks {
-  public static void main(String[] args) {
-    int count = 0;
-    char operator = 0;
-    double total=0, average, percentage;
-    Scanner scanner = new Scanner(System.in);
-    System.out.println("enter student name:");
-    String name = scanner.next();
-
-    System.out.println("enter student marks: \nEnglish: ");
-    int english = scanner.nextInt();
-
-    System.out.println("Marathi: ");
-    int marathi = scanner.nextInt();
-
-    System.out.println("Hindi: ");
-    int hindi = scanner.nextInt();
-
-    System.out.println("Maths: ");
-    int maths = scanner.nextInt();
-
-    System.out.println("Geo: ");
-    int geo = scanner.nextInt();
-
-    if(100 == 30){
-      System.out.println("Student is fail in English he has 30 marks.");
-    }
-    else if(100==30){
-      System.out.println("Student is fail in Marathi he has 30 marks.");
-    }
-    else if(100==30){
-      System.out.println("Student is fail in Hindi he has 30 marks.");
-    }
-    else if(100==30){
-      System.out.println("Student is fail in Maths he has 30 marks.");
-    }
-    else if(100==30){
-      System.out.println("Student is fail in Geo he has 30 marks.");
-    }
-    else if(30 <= 100){
-      System.out.println("student fail in all subject ");
-    }
-    else{
-      System.out.println("student has all subject clear");
-    }
-
-    System.out.println("total of all marks please enter '+'");
-    operator = scanner.next().charAt(0);
-
-    switch (operator){
-      case '+':
-        total = english + marathi + hindi + maths + geo;
-        System.out.println("Total is: " + total);
-
-
-        System.out.println("percentage of all marks please enter '%'");
-        operator = scanner.next().charAt(0);
-
-      case '%':
-        percentage = (total/500.0)*100;
-        System.out.println("Total Percentage : " + percentage + "%");
-
+    public static void main(String[] args) {
+        int english, marathi, hindi, maths, geo,total;
+        char Name;
+        float percentage;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("enter student Name: ");
+        Name = scanner.next().charAt(0);
+        System.out.println("enter student marks: ");
+        System.out.println("1.english:");
+        english = scanner.nextInt();
+        System.out.println("2.marathi:");
+        marathi = scanner.nextInt();
+        System.out.println("3.hindi:");
+        hindi = scanner.nextInt();
+        System.out.println("4.maths:");
+        maths = scanner.nextInt();
+        System.out.println("5.geo:");
+        geo = scanner.nextInt();
+        if (english <= 35) {
+            System.out.println("student it is fail in english");
+        } else if (marathi <= 35) {
+            System.out.println(" student it is fail in marathi");
+        } else if (hindi <= 35) {
+            System.out.println("student it is fail in hindi");
+        } else if (maths <= 35) {
+            System.out.println("student it is fail in maths");
+        } else if (geo <= 35) {
+            System.out.println("student it is fail in geo");
+        }else if(100>35){
+            System.out.println("you hava all subject clear :)");
+        }else{
+            System.out.println("you hava all subject fail");
         }
+        total=english+marathi+hindi+maths+geo;
+        System.out.println("total ="+total);
+        percentage=(total/500.0f)*100;
+        System.out.println("Percentage = "+percentage+"%");
     }
-  }
-
-
-
+}
