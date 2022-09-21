@@ -45,7 +45,7 @@ public class StudentMarks {
     else if(100==30){
       System.out.println("Student is fail in Geo he has 30 marks.");
     }
-    else if(30>30){
+    else if(30 <= 100){
       System.out.println("student fail in all subject ");
     }
     else{
