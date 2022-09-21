@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2,3,4,5,6 program">
-      <change afterPath="$PROJECT_DIR$/src/loop/Divisible7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ReverseNumber.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2,3,4,5,6,7,8,9 program">
+      <change afterPath="$PROJECT_DIR$/src/loop/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/programs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNumber">
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="Divisible7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.Divisible7" />
       <module name="java-programsd" />
@@ -74,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.FactorialNumber" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.FibonacciSeries" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.Divisible7" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +289,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663740925269</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=" loop 1,2,3,4,5,6,7 program">
+      <created>1663751637961</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663751637961</updated>
+    </task>
+    <task id="LOCAL-00023" summary=" loop 1,2,3,4,5,6,7 program">
+      <created>1663751711691</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663751711691</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" loop 1,2,3,4,5,6,7,8,9 program">
+      <created>1663751738564</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663751738564</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +339,9 @@
     <MESSAGE value=" loop 1,2,3 program" />
     <MESSAGE value=" loop 1,2,3,4 program" />
     <MESSAGE value=" loop 1,2,3,4,5,6 program" />
-    <option name="LAST_COMMIT_MESSAGE" value=" loop 1,2,3,4,5,6 program" />
+    <MESSAGE value=" loop 1,2,3,4,5,6,7,8,9program" />
+    <MESSAGE value=" loop 1,2,3,4,5,6,7 program" />
+    <MESSAGE value=" loop 1,2,3,4,5,6,7,8,9 program" />
+    <option name="LAST_COMMIT_MESSAGE" value=" loop 1,2,3,4,5,6,7,8,9 program" />
   </component>
 </project>
