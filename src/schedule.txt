@@ -1,6 +1,6 @@
 22 sept => array, functions
 
-23 sept => string, type_casting, break_continue
+23 sept => break_continue, string, type_casting
 
 24 sept => classes_objects, constructor
 

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="StudentMarks">
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="ddd">
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions/AddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/DaysOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/PrintNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/PrintNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schedule.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/schedule.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +66,13 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentMarks">
-    <configuration name="Divisible7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Divisible7" />
+  <component name="RunManager" selected="Application.pattern6">
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern2" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.LeapYear" />
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern3" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.PalindromeNumber" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern4" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ReverseNumber" />
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern5" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else.StudentMarks" />
+    <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern6" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="if_else.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentMarks" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.Divisible7" />
-        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.pattern6" />
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663849281106</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ddd">
+      <created>1663851740746</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663851740746</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,6 +342,7 @@
     <MESSAGE value=" loop 1,2,3,4 program" />
     <MESSAGE value=" loop 1,2,3,4,5,6 program" />
     <MESSAGE value="StudentMarks" />
-    <option name="LAST_COMMIT_MESSAGE" value="StudentMarks" />
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
 </project>
