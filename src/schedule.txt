@@ -8,7 +8,7 @@
 
 26 sept => polymorphism, interfaces
 
-27 sept => encapsulation, modifiers, enums
+27 sept => encapsulation, modifiers, enums, global_variables, local_variables, static_variables
 
 28 sept => collections, array_list, hash_map, linked_list
 
