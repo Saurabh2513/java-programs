@@ -1,0 +1,51 @@
+1. Create function to add two numbers.
+2. Write a program to get the largest and smallets element of an array using the function. 
+/*
+    Test Data :
+    Input the number of elements to be stored in the array :5
+    Input 5 elements in the array :
+    element - 0 : 1
+    element - 1 : 2
+    element - 2 : 3
+    element - 3 : 4
+    element - 4 : 5
+
+    Expected Output :
+
+    The largest element in the array is : 5   
+    The smallest element in the array is : 1  
+
+*/
+
+3. Calculator
+/*
+    Please input num1: 10
+    Please input num2: 20
+
+    Please select operation:
+    1.Addition
+    2.Subtraction
+    3.Division
+    4.Multiplication
+
+    1
+    (10 + 20) = 10
+*/
+
+4. Write a  program to find out maximum and minimum of some values using function which will return an array.
+/*
+    Test Data :
+    Input 5 values
+    25
+    11
+    35
+    65
+    20
+    Expected Output :
+
+    Number of values you want to input: Input 5 values
+    Minimum value is: 11
+    Maximum value is: 65 
+*/
+
+5. Write a function to reverse the given number.

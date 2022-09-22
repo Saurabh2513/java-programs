@@ -1,0 +1,17 @@
+22 sept => array, functions
+
+23 sept => string, type_casting, break_continue
+
+24 sept => classes_objects, constructor
+
+25 sept => revision.
+
+26 sept => polymorphism, interfaces
+
+27 sept => encapsulation, modifiers, enums
+
+28 sept => collections, array_list, hash_map, linked_list
+
+29 sept => static_const, exception_handling, threads
+
+30 sept => revision.
