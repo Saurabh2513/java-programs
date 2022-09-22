@@ -8,6 +8,7 @@ public class DaysOfWeek {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter a week number: ");
         int week= scanner.nextInt();
+
         switch (week){
                 case 1:
                 System.out.println("sunday");
