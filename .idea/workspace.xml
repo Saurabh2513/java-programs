@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2,3,4,5,6 program">
-      <change afterPath="$PROJECT_DIR$/src/loop/Divisible7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/programs.txt" afterDir="false" />
-    </list>
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="StudentMarks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

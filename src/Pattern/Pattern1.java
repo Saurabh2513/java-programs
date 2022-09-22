@@ -1,4 +1,4 @@
-package logic;
+package Pattern;
 
 import java.util.Scanner;
 
