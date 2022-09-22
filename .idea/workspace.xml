@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2,3,4,5,6,7,8,9,10 program">
-      <change afterPath="$PROJECT_DIR$/src/logic/Pattern1.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment=" loop 1,2,3,4,5,6 program">
+      <change afterPath="$PROJECT_DIR$/src/loop/Divisible7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/DivisibleBy5_7OrBoth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/DivisibleBy5_7OrBoth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/MonthOfYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/MonthOfYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Divisible7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Divisible7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/FactorialNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/programs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +60,20 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentMarks">
+  <component name="RunManager" selected="Application.PalindromeNumber">
+    <configuration name="Divisible7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Divisible7" />
+      <module name="java-programsd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.FactorialNumber" />
       <module name="java-programsd" />
@@ -94,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.OddNumber" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.PalindromeNumber" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -107,25 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logic.Pattern1" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ReverseNumber" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else.StudentMarks" />
-      <module name="java-programsd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="if_else.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentMarks" />
-        <item itemvalue="Application.Pattern1" />
-        <item itemvalue="Application.OddNumber" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.Divisible7" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.FactorialNumber" />
       </list>
@@ -299,35 +292,7 @@
       <option name="project" value="LOCAL" />
       <updated>1663740925269</updated>
     </task>
-    <task id="LOCAL-00022" summary=" loop 1,2,3,4,5,6,7 program">
-      <created>1663751637961</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1663751637961</updated>
-    </task>
-    <task id="LOCAL-00023" summary=" loop 1,2,3,4,5,6,7 program">
-      <created>1663751711691</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1663751711691</updated>
-    </task>
-    <task id="LOCAL-00024" summary=" loop 1,2,3,4,5,6,7,8,9 program">
-      <created>1663751738564</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1663751738564</updated>
-    </task>
-    <task id="LOCAL-00025" summary=" loop 1,2,3,4,5,6,7,8,9,10 program">
-      <created>1663753350493</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1663753350493</updated>
-    </task>
-    <option name="localTasksCounter" value="26" />
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,10 +321,6 @@
     <MESSAGE value=" loop 1,2,3 program" />
     <MESSAGE value=" loop 1,2,3,4 program" />
     <MESSAGE value=" loop 1,2,3,4,5,6 program" />
-    <MESSAGE value=" loop 1,2,3,4,5,6,7,8,9program" />
-    <MESSAGE value=" loop 1,2,3,4,5,6,7 program" />
-    <MESSAGE value=" loop 1,2,3,4,5,6,7,8,9 program" />
-    <MESSAGE value=" loop 1,2,3,4,5,6,7,8,9,10 program" />
-    <option name="LAST_COMMIT_MESSAGE" value=" loop 1,2,3,4,5,6,7,8,9,10 program" />
+    <option name="LAST_COMMIT_MESSAGE" value=" loop 1,2,3,4,5,6 program" />
   </component>
 </project>
