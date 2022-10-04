@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/array/DescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MinimuMax.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="arr">
+      <change afterPath="$PROJECT_DIR$/src/array/AverageNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/AscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/AscendingOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AscendingOrder">
+  <component name="RunManager" selected="Application.DescendingOrder">
     <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.AscendingOrder" />
       <module name="java-programsd" />
@@ -128,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.AscendingOrder" />
         <item itemvalue="Application.MinimuMax" />
-        <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.MaxNumber" />
         <item itemvalue="Application.MinimumNumber" />
       </list>
@@ -327,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664860773112</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="arr">
+      <created>1664886811197</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664886811197</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +366,7 @@
     <MESSAGE value="pattern6" />
     <MESSAGE value="array1" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="arr" />
+    <option name="LAST_COMMIT_MESSAGE" value="arr" />
   </component>
 </project>

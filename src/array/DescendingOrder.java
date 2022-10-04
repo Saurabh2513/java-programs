@@ -12,7 +12,6 @@ public class DescendingOrder {
         for (int i = 0; i < arr.length; i++) {
         System.out.println("enter number:" + (i + 1));
         arr[i] = scanner.nextInt();
-            System.out.println(arr[i]+" ");
 
         }
         for (int i = 0; i < arr.length; i++) {
