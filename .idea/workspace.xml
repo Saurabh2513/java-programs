@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="array1">
-      <change afterPath="$PROJECT_DIR$/src/array/AscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/MinimumNumber.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="array">
+      <change afterPath="$PROJECT_DIR$/src/array/DescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MinimuMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/AscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/AscendingOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +61,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.AscendingOrder">
-    <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.AddNumbers" />
+    <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.AscendingOrder" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.AscendingOrder" />
+    <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.DescendingOrder" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MinimumNumber" />
+    <configuration name="MinimuMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MinimuMax" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentPercentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.StudentPercentage" />
+    <configuration name="MinimumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MinimumNumber" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -129,10 +129,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AscendingOrder" />
+        <item itemvalue="Application.MinimuMax" />
+        <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.MaxNumber" />
         <item itemvalue="Application.MinimumNumber" />
-        <item itemvalue="Application.AddNumbers" />
-        <item itemvalue="Application.StudentPercentage" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663927668340</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="array">
+      <created>1664860773112</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1664860773112</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +360,7 @@
     <MESSAGE value="ddd" />
     <MESSAGE value="pattern6" />
     <MESSAGE value="array1" />
-    <option name="LAST_COMMIT_MESSAGE" value="array1" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
 </project>
