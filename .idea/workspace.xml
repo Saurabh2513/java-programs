@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="average">
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/classes_objects/StudentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/classes_objects/YoungerStudent.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="classes">
+      <change afterPath="$PROJECT_DIR$/src/oop/constructor/AddTwoNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/AverageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/AverageNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/break_continue/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/break_continue/programs.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +48,27 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java-programs/java-programsd/src/functions&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/java-programs/java-programsd/src/functions&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.constructor" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java-programs\java-programsd\src\functions" />
       <recent name="D:\java-programs\java-programsd\src\oop" />
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.YoungerStudent">
-    <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.AddNumbers" />
+  <component name="RunManager" selected="Application.AddTwoNumber">
+    <configuration name="AddDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.constructor.AddDemo1" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="oop.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.Pattern7" />
+    <configuration name="AddTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.constructor.AddTwoNumber" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.*" />
+          <option name="PATTERN" value="oop.constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoNumber" />
+        <item itemvalue="Application.AddDemo1" />
         <item itemvalue="Application.YoungerStudent" />
         <item itemvalue="Application.StudentClass (1)" />
         <item itemvalue="Application.StudentClass" />
-        <item itemvalue="Application.AddNumbers" />
-        <item itemvalue="Application.Pattern7" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664905505945</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="classes">
+      <created>1665242788955</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1665242788955</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,6 +394,7 @@
     <MESSAGE value="arr" />
     <MESSAGE value="update" />
     <MESSAGE value="average" />
-    <option name="LAST_COMMIT_MESSAGE" value="average" />
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
 </project>
