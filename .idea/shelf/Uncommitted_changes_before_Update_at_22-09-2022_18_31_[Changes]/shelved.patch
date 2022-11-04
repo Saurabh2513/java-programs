@@ -1,0 +1,16 @@
+Index: src/Pattern/Pattern1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Pattern/Pattern1.java b/src/pattern/Pattern1.java
+rename from src/Pattern/Pattern1.java
+rename to src/pattern/Pattern1.java
+--- a/src/Pattern/Pattern1.java	
++++ b/src/pattern/Pattern1.java	
+@@ -1,4 +1,4 @@
+-package Pattern;
++package pattern;
+ 
+ import java.util.Scanner;
+ 
