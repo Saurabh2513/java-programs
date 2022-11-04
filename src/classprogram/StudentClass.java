@@ -1,4 +1,4 @@
-package oop.classes_objects;
+package classprogram;
 
 import java.util.Scanner;
 
@@ -25,6 +25,11 @@ class student {
         System.out.println("Age: \t" + this.age);
         System.out.println("Address: \t" + this.address);
 
+    }
+}
+class Employee extends student{
+    Employee(int r, String n, int age, String add) {
+        super(r, n, age, add);
     }
 }
 

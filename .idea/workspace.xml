@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="constructor1">
-      <change afterPath="$PROJECT_DIR$/src/classprogram/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/AnimalInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Inheritance1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/program" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="Assignments">
+      <change afterPath="$PROJECT_DIR$/src/ClassAssin/MNNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAssin/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAssin/Q7_Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAssin/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/CollectionDemoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/Health.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Inheritance/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstractclass/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/AscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/AscendingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/constructor/programs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/constructor/programs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/classes_objects/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classprogram/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/classes_objects/YoungerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/classes_objects/YoungerStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/interfaces/programs.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="classprogram" />
       <recent name="oop.constructor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -70,14 +76,17 @@
       <recent name="D:\java-programs\java-programsd\src\oop" />
       <recent name="D:\java-programs\java-programsd\src\loop" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-programs\java-programsd\src\classprogram" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance1 (4)">
-    <configuration name="AnimalInheritance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.AnimalInheritance" />
+  <component name="RunManager" selected="Application.CollectionDemoList">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classprogram.CollectionDemo" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="classprogram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalInheritance (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.AnimalInheritance" />
+    <configuration name="CollectionDemoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classprogram.CollectionDemoList" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="classprogram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalInheritance (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.AnimalInheritance" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern1" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.AnimalInheritance" />
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern2" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Inheritance1" />
+    <configuration name="Q7_Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAssin.Q7_Employee" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="ClassAssin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inheritance1 (4)" />
-        <item itemvalue="Application.AnimalInheritance" />
-        <item itemvalue="Application.AnimalInheritance (3)" />
-        <item itemvalue="Application.AnimalInheritance (2)" />
-        <item itemvalue="Application.AnimalInheritance (1)" />
+        <item itemvalue="Application.CollectionDemoList" />
+        <item itemvalue="Application.Pattern1" />
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.Q7_Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665672722307</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="inheritance">
+      <created>1665943356424</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1665943356424</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init commit" />
     <MESSAGE value="- program 1 added" />
     <MESSAGE value="- program 2,3 added" />
     <MESSAGE value="- program 2,3,4added" />
@@ -412,6 +427,8 @@
     <MESSAGE value="average" />
     <MESSAGE value="classes" />
     <MESSAGE value="constructor1" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructor1" />
+    <MESSAGE value="inheritance" />
+    <MESSAGE value="Assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments" />
   </component>
 </project>

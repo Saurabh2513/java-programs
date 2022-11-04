@@ -45,7 +45,7 @@ public class YoungerStudent {
 
         System.out.println("student address:");
         String city = scanner.next();
-        student s1 = new student(rollno, name, age, city);
+        student1 s1 = new student1(rollno, name, age, city);
         s1.display();
 
         //second student details
@@ -60,7 +60,7 @@ public class YoungerStudent {
 
         System.out.println("student address:");
         String city2 = scanner.next();
-        student s2 = new student(rollno2, name2, age2, city2);
+        student1 s2 = new student1(rollno2, name2, age2, city2);
         s2.display();
 
         // third student details
@@ -75,7 +75,7 @@ public class YoungerStudent {
 
         System.out.println("student address:");
         String city3 = scanner.next();
-        student s3 = new student(rollno3, name3, age3, city3);
+        student1 s3 = new student1(rollno3, name3, age3, city3);
         s3.display();
 
         if (age < age2 && age < age2) {
