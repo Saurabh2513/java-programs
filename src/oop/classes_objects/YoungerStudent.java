@@ -1,5 +1,5 @@
 package oop.classes_objects;
-//2. Use same Student class and take all values from user for 3 students.
+//2. Use same Employee1 class and take all values from user for 3 students.
 //      show who is the oldest student and who is the yonger student.
 
 import java.util.Scanner;

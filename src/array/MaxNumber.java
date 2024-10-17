@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class MaxNumber {
     public static void main(String[] args) {
-        int[] arr = new int[5];
+        int[] arr = new int[2];
         int max = 0;
         Scanner scanner = new Scanner(System.in);
 

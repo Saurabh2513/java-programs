@@ -53,14 +53,14 @@ public class CollectionDemo {
         st.push(200);
         st.push(300);
         st.push(400);
-        st.add(1, 100);
+     //   st.add(1, 100);
         st.pop();
         System.out.println(st.peek());
 
-        Iterator itr = st.iterator();
-        while (itr.hasNext()) {
-            System.out.println(itr.next());
-        }
+      //  Iterator itr = st.iterator();
+//        while (itr.hasNext()) {
+//            System.out.println(itr.next());
+//        }
     }
 
     public static void main(String[] args) {

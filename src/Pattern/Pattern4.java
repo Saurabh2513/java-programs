@@ -1,5 +1,7 @@
 package pattern;
 
+import java.util.Scanner;
+
 /*4.
         1
         2 2
@@ -10,7 +12,10 @@ package pattern;
 public class Pattern4 {
     public static void main(String[] args) {
         int num = 1, i, j;
-        for (i = 1 ; i <= 5; i++) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("enter number: ");
+        num = scanner.nextInt();
+        for (i = 1 ; i <= num; i++) {
             for (j = 0; j < i; j++) {
                 System.out.print(i + " ");
             }

@@ -2,7 +2,7 @@ package classprogram;
 
 import java.util.Scanner;
 
-//1. Write a class named Student with variables: rollno, name, age, address. take this values from the user and store it into Student class
+//1. Write a class named Employee1 with variables: rollno, name, age, address. take this values from the user and store it into Employee1 class
 //& show it to user.
 class student {
     int rollno;

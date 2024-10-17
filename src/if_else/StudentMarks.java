@@ -2,10 +2,10 @@ package if_else;
 
 import java.util.Scanner;
 
-/*10. Create program to determine Student is Pass or Fail.
+/*10. Create program to determine Employee1 is Pass or Fail.
         Take marks of 5 subjects.
         English, Marathi, Hindi, Maths, Geo.
-        Check if Student has failed in any subject. if student is failed in any subject then show the subject name and marks.
+        Check if Employee1 has failed in any subject. if student is failed in any subject then show the subject name and marks.
         If student is pass then show the percentage.
 */
 public class StudentMarks {

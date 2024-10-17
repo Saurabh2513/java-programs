@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="Assignments">
-      <change afterPath="$PROJECT_DIR$/src/ClassAssin/MNNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAssin/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAssin/Q7_Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAssin/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/CollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/CollectionDemoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classprogram/Health.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Inheritance/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/abstractclass/Demo.java" afterDir="false" />
+    <list default="true" id="04951a26-365c-4600-935e-7c1e921da00a" name="Changes" comment="CollectionDemo1">
+      <change afterPath="$PROJECT_DIR$/src/ClassAssin/BankDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstraction/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/Employee1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/GenericDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/InputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/ReveresString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classprogram/StackElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/NewInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/OldInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/Exp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/GetCountOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/EvenNumberSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/classes_objects/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classprogram/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassAssin/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassAssin/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern/Pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Pattern4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/MaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classprogram/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classprogram/CollectionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classprogram/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classprogram/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/Inheritance/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Inheritance/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/abstractclass/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/abstractclass/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oop/classes_objects/YoungerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/classes_objects/YoungerStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/interfaces/programs.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +46,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +77,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java-programs/java-programsd/src/functions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java-programs/Java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -80,9 +96,22 @@
       <recent name="D:\java-programs\java-programsd\src\classprogram" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionDemoList">
-    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classprogram.CollectionDemo" />
+  <component name="RunManager" selected="Application.EvenNumberSubstring">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="if_else.Calculator" />
+      <module name="java-programsd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="if_else.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classprogram.Employee1" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionDemoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classprogram.CollectionDemoList" />
+    <configuration name="EvenNumberSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.EvenNumberSubstring" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classprogram.*" />
+          <option name="PATTERN" value="task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.Pattern1" />
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAssin.Password" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.*" />
+          <option name="PATTERN" value="ClassAssin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.Pattern2" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.Pattern4" />
       <module name="java-programsd" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionDemoList" />
-        <item itemvalue="Application.Pattern1" />
-        <item itemvalue="Application.Pattern2" />
-        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.EvenNumberSubstring" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Q7_Employee" />
+        <item itemvalue="Application.Password" />
+        <item itemvalue="Application.Pattern4" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +418,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665943356424</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="CollectionDemo">
+      <created>1667556670443</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1667556670443</updated>
+    </task>
+    <task id="LOCAL-00034" summary="CollectionDemo1">
+      <created>1667556770063</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1667556770063</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,8 +447,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="- program 1 added" />
-    <MESSAGE value="- program 2,3 added" />
     <MESSAGE value="- program 2,3,4added" />
     <MESSAGE value="- added program" />
     <MESSAGE value="new added program" />
@@ -429,6 +470,8 @@
     <MESSAGE value="constructor1" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="Assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignments" />
+    <MESSAGE value="CollectionDemo" />
+    <MESSAGE value="CollectionDemo1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CollectionDemo1" />
   </component>
 </project>

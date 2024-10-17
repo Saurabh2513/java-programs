@@ -7,7 +7,7 @@ abstract class mobile{
 }
 class display extends mobile{
 public display(){
-    System.out.println("shoe images");
+    System.out.println("show images");
 }
 public void video(){
     System.out.println("play a video");
